@@ -1,0 +1,25 @@
+:root {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+main {
+    display: flex;
+}
+
+sidebar {
+    padding: 0.5rem;
+    width: 20%;
+}
+
+header {
+    width: 100vw;
+    background-color: orangered;
+}
